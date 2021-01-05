@@ -5,16 +5,41 @@ body {
 header{
     text-align: center;    
 }
+main{
+    text-align: center;
+}
 h1 {
     color: white;
     font-weight: normal;
     font-size: 50px;    
 }
+h2{
+    color: white;
+    font-size: 42px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    text-align: center;
+}
 a {
     color: aquamarine;
     font-size: 16px;
+    text-align: center;
 }
-video{
+video, img{
     display: block;
     margin: 0 auto;
 }
+section p{
+    color: gray;
+    font-size: 21px;
+    text-align: center;        
+}
+footer{
+    text-align: center;
+}
+.copyright{
+    text-align: right;
+    color: gray;
+    font-size: 20px;
+}
+
